@@ -38,6 +38,10 @@ Row 3: C  0  =  /
 - Connect the 4 column pins to PORTK pins 0-3 (PK0-PK3) on the AVR microcontroller.
 - Ensure pull-up resistors are enabled on the row pins.
 
+#### Schematic
+
+![Schematic](readme\Schematic.png)
+
 ## Usage
 
 ### Setup
