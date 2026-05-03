@@ -40,7 +40,7 @@ Row 3: C  0  =  /
 
 #### Schematic
 
-![Schematic](readme\Schematic.png)
+![Schematic](.\readme\Schematic.png)
 
 ## Usage
 
